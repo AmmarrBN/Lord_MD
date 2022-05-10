@@ -1,3 +1,3 @@
-import os,Sys,time
+import os,sys,time
 print ("Created By AmmarBN")
 time.sleep(5)
