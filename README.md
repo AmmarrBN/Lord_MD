@@ -77,9 +77,9 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/AmmarrBN/Lord_MD/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/AmmarrBN/Lord_MD/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/AmmarrBN/Lord_MD/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/AmmarrBN/Lord_MD/blob/main/config.js#L1)
+- Owner Name [Here](https://github.com/AmmarrBN/Lord_MD/blob/main/config.js#L1)
+- Bot Name [Here](https://github.com/AmmarrBN/Lord_MD/blob/main/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
