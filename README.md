@@ -4,6 +4,8 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
 <p align="center">
     <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
+
+* Unduh Node Modules Bot [`Click Here`](https://drive.google.com/file/d/14dfcHVsiRd38DJCtpV-OTdb9bukP5fst/view?usp=drivesdk)
 <h1 align="center">LordBOT - MD</h1>
 <p align="center">
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Ammar - Executed;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
