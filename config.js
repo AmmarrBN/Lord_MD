@@ -59,22 +59,22 @@ global.ppulsa2 = '088229683561'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
+global.nomorbot = '237698947449'
+global.nomorown = '237651506147'
 global.namebot = 'Lord-Botz'
-global.nameown = 'Ammar-Executed'
+global.nameown = '♠️ 𝑴𝒂𝒔𝒉𝒍𝒆 ~✦ 𝑪𝒂𝒔𝒕𝒍𝒆 ♠️'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  [''],
+  ['237651506147'],
+  ['237672832546'],
+  ['237698947449', '⌬ ♠️ 𝑴𝒂𝒔𝒉𝒍𝒆 ~✦ 𝑪𝒂𝒔𝒕𝒍𝒆 ♠️ ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
-global.prems = ['6288229683561','6287708773367'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['237698947449'] // Want some help?
+global.prems = ['237698947449','237651506147'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
