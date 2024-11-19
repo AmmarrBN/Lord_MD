@@ -67,10 +67,10 @@ global.nameown = 'Ammar-Executed'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  [''],
+  [''],
+  ['237651506147'],
+  ['237698947449', '⌬ ♠️ 𝑴𝒂𝒔𝒉𝒍𝒆 ~✦ 𝑪𝒂𝒔𝒕𝒍𝒆 ♠️', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6288229683561'] // Want some help?
