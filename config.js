@@ -59,9 +59,9 @@ global.ppulsa2 = '088229683561'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
-global.namebot = 'Lord-Botz'
+global.nomorbot = '233544482494'
+global.nomorown = '233544482494'
+global.namebot = 'OP-Bot'
 global.nameown = 'Ammar-Executed'
 
 
